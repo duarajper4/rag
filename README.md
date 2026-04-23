@@ -218,10 +218,9 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 **Duaa Rajper**
 
-[[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/Duarajper2025))
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR_USERNAME](https://github.com/duarajper4/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)]([https://your-app-link.streamlit.app](https://youtubetranscriberbot.streamlit.app/))
----
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/Duarajper2025))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR_USERNAME](https://github.com/duarajper4/)   like this i want to add streamlit---
 
 <div align="center">
   <sub>Built with ❤️ using Streamlit, Groq, and FAISS</sub>
