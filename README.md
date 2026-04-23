@@ -21,6 +21,7 @@
 **VidMind AI** transforms any YouTube video into an interactive knowledge base. Paste a YouTube URL, and the system automatically fetches the transcript, builds a semantic vector index, and lets you ask natural language questions — all powered by Groq's ultra-fast LLaMA 3.3 70B model.
 
 > Built as a full-stack AI application demonstrating RAG architecture, vector databases, and LLM integration.
+> check here [https://youtubetranscriberbot.streamlit.app/] i upload fully functionality.
 
 ---
 
@@ -176,7 +177,7 @@ youtube-rag-system/
 ### Deploy on Streamlit Cloud (Free)
 
 1. Push your code to GitHub
-2. Go to [share.streamlit.io](https://share.streamlit.io)
+2. Go to [share.streamlit.io](https://share.streamlit.io)(https://youtubetranscriberbot.streamlit.app/)
 3. Connect your GitHub repository
 4. Set **Main file path** to `app.py`
 5. Under **Advanced settings → Secrets**, add:
@@ -217,9 +218,9 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 **Duaa Rajper**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-
+[[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/Duarajper2025))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/YOUR_USERNAME](https://github.com/duarajper4/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-Live_App-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)]([https://your-app-link.streamlit.app](https://youtubetranscriberbot.streamlit.app/))
 ---
 
 <div align="center">
